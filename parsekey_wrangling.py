@@ -1,6 +1,6 @@
-'''Parsekey wrangling module. Adapted from Emily Bentley's nanodrop wrangling utilities'''
+'''Parsekey wrangling module. Adapted from Emily Bentley's nanodrop wrangling utilities - https://github.com/ebentley17/Deniz_lab_code/blob/master/wrangling/nanodrop/nanodrop.py'''
 
-class ParseKey: #Taken from EB NanoDrop wrangling file and modified by Jenna T. to accommodate lists
+class ParseKey: #Taken from Emily Bentley NanoDrop wrangling file and modified by Jenna T. to accommodate lists
     """ParseKeys for use in _make_columns_by_parse_key and analyze_sample_names."""
     
     def __init__(self, *args, separator=None):
