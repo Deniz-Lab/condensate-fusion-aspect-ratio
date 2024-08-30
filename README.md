@@ -34,7 +34,7 @@ For use, please cite the above publication.
 - Python (v 3.10.11)
 
 - Packages: NumPy, Pandas, Matplotlib, Scikit-image, Scipy
-- Custom code: aspectratio.py, parsekey_wrangling.py (developed by Emily Bentley)
+- Custom code: aspectratio.py, parsekey_wrangling.py (developed by Emily Bentley https://github.com/ebentley17/Deniz_lab_code/blob/master/wrangling/nanodrop/nanodrop.py)
 - Data files: "PolyPFusion_tifFiles" (available on GitHub: https://github.com/Deniz-Lab/condensate-fusion-aspect-ratio)
 
 
@@ -42,7 +42,7 @@ For use, please cite the above publication.
 
 - aspectratio.py: handles single droplet fusion events. 
                   Measures aspect ratio, returns fit parameters, displays segmentation
-- parsekey_wrangling.py: translates titles into dictionary of experimental parameters
+- parsekey_wrangling.py: translates figure names into dictionary of experimental parameters
 										 
 
 
