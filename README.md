@@ -34,7 +34,8 @@ For use, please cite the above publication.
 - Python (v 3.10.11)
 
 - Packages: NumPy, Pandas, Matplotlib, Scikit-image, Scipy
-- Custom code: aspectratio.py, parsekey_wrangling.py (developed by Emily Bentley https://github.com/ebentley17/Deniz_lab_code/blob/master/wrangling/nanodrop/nanodrop.py)
+- Custom code: aspectratio.py, parsekey_wrangling.py
+- (parsekey_wrangling.py developed based on code developed by Emily Bentley - https://github.com/ebentley17/Deniz_lab_code/blob/master/wrangling/nanodrop/nanodrop.py)
 - Data files: "PolyPFusion_tifFiles" (available on GitHub: https://github.com/Deniz-Lab/condensate-fusion-aspect-ratio)
 
 
